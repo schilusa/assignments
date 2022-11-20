@@ -1,13 +1,9 @@
-package com.SpringA1;
-
-import java.awt.Point;
+package com.codebind;
 
 public class Triangle {
+  public void draw() {
+    System.out.prinln("Triangle drawn")
 
-  private Point pointA;
-
-  private Point pointB;
-
-  private Point pointc;
+  }
 
 }
